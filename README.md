@@ -1,40 +1,40 @@
 # My First Project
 
-?λ ?©ν?μ Άκ©?λ? ??Άνλ μ«Ά ?μ μ§ε¬ ?§??©? Git ν GitHub ν κ§?©?Ά ?©ν?μ?μ? νηγ?   κ¥?α κ¤ª? ν commitμ? ¥©εμ??  ν§μ.
+This is a Python practice project aimed at learning Git and GitHub, managing real projects with virtual environments, and making professional commits.
 
 --- 
 
-## Ά?λνιν???μ
-- Python 3.14 - ª λ ­ι? ?©ν?μ  ©? κλαη  ©λκμ ν «?©??Ά?μ
-- Virtual environment (venv) -  ©? κ§?©?Ά  «Άμ?μ ν κ¥?α κ«Άηι
-- Requests -  ©? ?©   APIμ (λ­ : pip install requests)
-- Pretty Print -  ©? λκ?¬ ¦©ν¤??μ  μ ­ν©Ά ª?  ν ¦νλ
+## Technologies
+- Python 3.14 - main language used for scripts and program logic
+- Virtual environment (venv) - to manage packages and create an isolated environment
+- Requests - for working with APIs (installation: pip install requests)
+- Pretty Print - to display outputs nicely and clearly
 
 --- 
 
-## ¤©
-1.  ©©«? λ«¦μ Python:
+## Execution
+1. Check Python version:
 python --version
-2. ?ινλ ?©§λ ©??ν? ?©ν?μ:
+2. Clone the repository:
 git clone https://github.com/Mmpy-dev/my-first-project.git
-3. ν©§ ¬§λ  μ ?ν¬μ ?©ν?μ:
+3. Go to the project folder:
 cd my-first-project
-4. εγι ?©§λ κ¥?α κ¤ª?:
+4. Activate the virtual environment:
 python -m venv venv
 venv\Scripts\activate   # Windows
 source venv/bin/activate # macOS / Linux
-5. λ­  ?Ά ¦λμ?μ:
+5. Install required packages:
 pip install -r requirements.txt
-6. ¤©? ε?ι ??Άνλ:
+6. Run the Python file:
 python main.py
 
 --- 
 
-## λ?Ά ¥©εμ??
-- Άδ??©Ά ™ªκ?¬? ©ν ©ν? ¬¦μ ¤§?λμ γκι ?λ?§: git checkout -b feature-branch
-- commitμ? κ©Ά  ν Άνΰ?¥?§© ?κ? κ???λμ Ά©?¦?μ ?©ν?μ Άκ?ª  κνλμ
+## Professional Notes
+- Apply experimental changes on a separate branch: git checkout -b feature-branch
+- Keeping commits organized and descriptive helps maintain a clean project history
 
 --- 
 
-## §© ©μ κλ
-κλ Mmpy μ«Άκ? γιημ?κλ§  μ Python ν AI. ?λ ?©ν?μ νι?λ η§κ κλ  ©? «¦Ά ?©ν?μ?μ? νηγ? ν ¥©εμ?? ©ν? GitHub  ν§ ν Ά¤© μ?? ?©   commitμ? κλ? ¬¦μ?μ ν push ¥©εμ?? ©ν §¬Άκ.
+## About Me
+I am Mmpy, interested in Python and AI. This project is my first step towards building real-world projects on GitHub, practicing secure commits, branch management, and professional pushes.
