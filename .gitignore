@@ -1,11 +1,4 @@
 venv/ 
 pycache/ 
 *.pyc 
-*.pyo 
-*.pyd 
-*.swp 
-.Python 
-env/ 
-build/ 
-dist/ 
-*.egg-info/ 
+.vscode/ 
