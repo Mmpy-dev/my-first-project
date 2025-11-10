@@ -1,9 +1,11 @@
-# Virtual environment
-venv/
-
-# Python cache files
-pycache/
-*.pyc
-
-# IDE files (VSCode)
-.vscode/
+venv/ 
+pycache/ 
+*.pyc 
+*.pyo 
+*.pyd 
+*.swp 
+.Python 
+env/ 
+build/ 
+dist/ 
+*.egg-info/ 
