@@ -1,1 +1,40 @@
-# my-first-project
+# My First Project
+
+?λ ?©ν?μ Άκ©?λ? ??Άνλ μ«Ά ?μ μ§ε¬ ?§??©? Git ν GitHub ν κ§?©?Ά ?©ν?μ?μ? νηγ?   κ¥?α κ¤ª? ν commitμ? ¥©εμ??  ν§μ.
+
+--- 
+
+## Ά?λνιν???μ
+- Python 3.14 - ª λ ­ι? ?©ν?μ  ©? κλαη  ©λκμ ν «?©??Ά?μ
+- Virtual environment (venv) -  ©? κ§?©?Ά  «Άμ?μ ν κ¥?α κ«Άηι
+- Requests -  ©? ?©   APIμ (λ­ : pip install requests)
+- Pretty Print -  ©? λκ?¬ ¦©ν¤??μ  μ ­ν©Ά ª?  ν ¦νλ
+
+--- 
+
+## ¤©
+1.  ©©«? λ«¦μ Python:
+python --version
+2. ?ινλ ?©§λ ©??ν? ?©ν?μ:
+git clone https://github.com/Mmpy-dev/my-first-project.git
+3. ν©§ ¬§λ  μ ?ν¬μ ?©ν?μ:
+cd my-first-project
+4. εγι ?©§λ κ¥?α κ¤ª?:
+python -m venv venv
+venv\Scripts\activate   # Windows
+source venv/bin/activate # macOS / Linux
+5. λ­  ?Ά ¦λμ?μ:
+pip install -r requirements.txt
+6. ¤©? ε?ι ??Άνλ:
+python main.py
+
+--- 
+
+## λ?Ά ¥©εμ??
+- Άδ??©Ά ™ªκ?¬? ©ν ©ν? ¬¦μ ¤§?λμ γκι ?λ?§: git checkout -b feature-branch
+- commitμ? κ©Ά  ν Άνΰ?¥?§© ?κ? κ???λμ Ά©?¦?μ ?©ν?μ Άκ?ª  κνλμ
+
+--- 
+
+## §© ©μ κλ
+κλ Mmpy μ«Άκ? γιημ?κλ§  μ Python ν AI. ?λ ?©ν?μ νι?λ η§κ κλ  ©? «¦Ά ?©ν?μ?μ? νηγ? ν ¥©εμ?? ©ν? GitHub  ν§ ν Ά¤© μ?? ?©   commitμ? κλ? ¬¦μ?μ ν push ¥©εμ?? ©ν §¬Άκ.
