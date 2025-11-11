@@ -6,3 +6,11 @@ def main():
 
 if name == "main":
     main() 
+Main Python script for the project
+
+def main():
+    """Main function execution""" 
+    print("Hello, this is the main script!") 
+
+if name == "main":
+    main() 
